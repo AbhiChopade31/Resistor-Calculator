@@ -3,10 +3,6 @@ from tkinter import ttk
 from tkinter import *
 from tkinter import messagebox
 
-#Prajakta Yogesh Band
-#Roll NO.242
-#GR - 22110818
-#BAtch - B2
 
 def find():
 
